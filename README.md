@@ -1,62 +1,86 @@
-# 👋 ¡Hola! Soy [Tu Nombre]
+# 👋 ¡Hola! Soy Mario
 
-Desarrollador Full Stack apasionado por crear aplicaciones eficientes, escalables y con un diseño limpio. Me encanta aprender nuevas tecnologías y compartir conocimientos con la comunidad.
+Desarrollador con enfoque Full Stack y sólidos conocimientos en desarrollo web, sistemas e infraestructura. 
+Me interesa no solo programar, sino también comprender cómo funcionan los entornos donde se ejecutan las aplicaciones.
 
 ---
 
-## 🛠️ Habilidades
+## 🚀 Perfil Profesional
 
-### Lenguajes de programación
-- JavaScript / TypeScript
-- Python
-- HTML5 & CSS3
+- Desarrollo Web Frontend y Backend
+- Arquitectura MVC
+- Gestión de bases de datos relacionales
+- Configuración básica de servidores
+- Conocimientos en redes y sistemas
+- Soporte técnico y mantenimiento de equipos
+
+---
+
+## 🛠️ Conocimientos Técnicos
+
+### 🌐 Frontend
+- HTML5
+- CSS3
+- Bootstrap
+- JavaScript
+- Fundamentos de Angular
+
+### 🖥️ Backend
+- PHP con arquitectura MVC
+- Symfony (Twig, Doctrine ORM)
 - Java
 - C#
 
-### Frameworks y Librerías
-- **Frontend:** React, Vue, Angular
-- **Backend:** Node.js, Express, Django, Spring Boot
-- **Mobile:** React Native, Flutter
+### 🗄️ Bases de Datos
+- MySQL
+- Modelado relacional
+- Consultas SQL
 
-### Bases de Datos
-- MySQL, PostgreSQL
-- MongoDB
-- Firebase
-
-### Herramientas & DevOps
-- Git & GitHub
-- Docker
-- CI/CD (GitHub Actions, Jenkins)
-- AWS & Heroku
+### 🔧 Control de Versiones
+- Git
 
 ---
 
-## 💻 Proyectos Destacados
+## 🖥️ Sistemas e Infraestructura
 
-| Proyecto | Descripción | Tecnologías |
-|---------|-------------|------------|
-| [Nombre Proyecto 1](link) | Aplicación web para gestionar tareas | React, Node.js, MongoDB |
-| [Nombre Proyecto 2](link) | Blog personal con autenticación | Django, PostgreSQL |
-| [Nombre Proyecto 3](link) | App móvil de seguimiento de hábitos | Flutter, Firebase |
+### Sistemas Operativos
+- Administración básica de Windows Server
+- Administración básica de Ubuntu
+
+### Servidores y Protocolos
+- Configuración de SSH
+- Servicios HTTP y FTP
+- Servidores Apache y Nginx
+
+### Redes
+- IPv4
+- DNS
+- DHCP
+- VLANs
+
+### Virtualización
+- VirtualBox
+
+### Automatización
+- Scripts básicos en Bash
+- Scripts básicos en PowerShell
+
+### Soporte Técnico
+- Mantenimiento y reparación de ordenadores
+- Diagnóstico de hardware y software
 
 ---
 
-## 🌐 Conéctate conmigo
+## 📊 Enfoque Técnico
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuusuario)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tuusuario)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuemail@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tuusuario)
-
----
-
-## 📈 Estadísticas de GitHub
-
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical)
+- Desarrollo orientado a objetos
+- Separación de responsabilidades (MVC)
+- Configuración de entornos locales
+- Trabajo en entornos Linux y Windows
+- Resolución de problemas técnicos
 
 ---
 
-## ⚡ Datos curiosos
-- Me encanta contribuir a proyectos open-source.
-- Siempre estoy aprendiendo algo nuevo: AI, blockchain y más.
-- Coffee + Code = ❤️
+## 🎯 Objetivo Profesional
+
+Seguir creciendo como desarrollador, ampliando conocimientos en buenas prácticas, arquitectura de software y despliegue en entornos productivos.
